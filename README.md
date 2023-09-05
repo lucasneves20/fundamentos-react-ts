@@ -1,27 +1,5 @@
-# React + TypeScript + Vite
+# Conclusão do primeiro módulo de React do Inginit da rocketseat
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Foi um processo um pouco lento por conta dos meus afazeres pessoais, mas foi muito bom e proveitoso ter feito esse módulo
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+meu aprendizado geral não foram muitos por já ter conhecimento sobre react, mas o conhecimento mais interessante que saí desse módulo foi o conceito de Closure no react, e como ele funciona e como podemos tirar vantagem deste conceito
